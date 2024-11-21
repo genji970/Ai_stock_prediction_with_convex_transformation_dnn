@@ -6,10 +6,14 @@ This repo contains one paper and result of experiment. By simply transform the f
 2) ai_stock_paper.ipynb is experiment result. 
 
     2-1) sum(profit for each stock) /number of stock traded : 12.193836401288891
+   
     2-2) number of stock : 50
+   
     2-3) number of stock never traded: 41
 
 
 	2-4) sum(profit for each stock) /number of stock traded : 13.134635897435901
+   
 	2-5) number of stock : 496
-    2-6) number of stock never traded: 457
+
+   	2-6) number of stock never traded: 457
