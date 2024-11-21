@@ -3,7 +3,7 @@ This repo contains one paper and result of experiment. By simply transform the f
 
 1) Ai Trade Paper Predicting Stock Market Movement,DSDM is a paper that explains how to make candle chart looks like convex form / when candle chart looks like convex form.
 
-2) ai_stock_paper.ipynb in repo is experiment result. Here are brief results 
+2) ai_stock_paper.ipynb in repo is the experiment result. Here are brief results 
 
 	For USA_stock:
 
