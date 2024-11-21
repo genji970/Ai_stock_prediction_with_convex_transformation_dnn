@@ -1,9 +1,9 @@
 # stock_prediction_with_convex_transformation_dnn
-This repo contains one paper and result of experiment. By simply transform the form of data in the candle chart, can get about 12% profit per each stock in usa_market(not every stock in usa , stocks were chosen and I don't know the criteria since I didn't make dataset). And also there is a stock profit result for kospi market
+This repo contains one paper and result of experiment. By simply transform the form of data in the candle chart, can get about 12% profit for each stock in usa_market(for 9 stocks) and about 13% profit for each 39 stocks in kospi market.
 
 1) Ai Trade Paper Predicting Stock Market Movement,DSDM is a paper that explains how to make candle chart looks like convex form / when candle chart looks like convex form.
 
-2) ai_stock_paper.ipynb in repo is the experiment result. Here are brief results 
+2) ai_stock_paper.ipynb in repo is the backtesting experiment result. Here are brief results 
 
 	For USA_stock:
 
